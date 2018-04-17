@@ -1,0 +1,5 @@
+trnsl.1.1.20180417T211322Z.6b63d18701d4af12.647556fa4d6898394e1c69a15fc344a528c58de3
+
+curl -X POST -d text='hello world!' -d lang=ru https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20180417T211322Z.6b63d18701d4af12.647556fa4d6898394e1c69a15fc344a528c58de3 | json_pp
+
+
